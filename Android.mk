@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),rmx2020)
+ifeq ($(TARGET_DEVICE),RMX2193)
 
 endif
